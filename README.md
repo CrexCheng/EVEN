@@ -22,7 +22,8 @@ The experiment execution includes two steps: data processing and experiment runn
 
 ### Data Processing
 
-Run the `../utils/data_handler.py` file to obtain the required data format for the next step. The output will be `../data/output_data.xlsx`.
+First, please place the acquired data in `../data/data.xlsx`.
+Next, run the `../utils/data_handler.py` file to obtain the required data format for the next step. The output will be `../data/output_data.xlsx`.
 
 ### Running Experiments
 
@@ -41,4 +42,3 @@ Code 3 xxxxxxxxxxxxxxxxxxxx
 ## Significance Testing Methods
 
 xxxxxxxxxxxxxxxxxxxx
-
